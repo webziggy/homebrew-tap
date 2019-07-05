@@ -58,7 +58,6 @@ class FfmpegAll < Formula
       --disable-libjack
       --enable-avisynth
       --enable-avresample
-      --enable-decklink
       --enable-ffplay
       --enable-frei0r
       --enable-gpl
@@ -178,7 +177,6 @@ Included options (or disbaled options due to limitations on Mac) with descriptio
   --disable-libjack
   --enable-avisynth        enable reading of AviSynth script files [no]
   --enable-avresample
-  --enable-decklink        enable Blackmagic DeckLink I/O support [no]
   --enable-ffplay
   --enable-frei0r          enable frei0r video filtering [no] **
   --enable-gpl
