@@ -70,7 +70,6 @@ class FfmpegAll < Formula
       --enable-jni
       --enable-ladspa
       --enable-libaom
-      --enable-libaribb24
       --enable-libass
       --enable-libbluray
       --enable-libbs2b
