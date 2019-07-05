@@ -59,7 +59,6 @@ class FfmpegAll < Formula
       --enable-avisynth
       --enable-avresample
       --enable-chromaprint
-      --enable-cuda-nvcc
       --enable-decklink
       --enable-ffplay
       --enable-frei0r
