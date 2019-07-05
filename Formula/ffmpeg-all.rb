@@ -62,7 +62,6 @@ class FfmpegAll < Formula
       --enable-frei0r
       --enable-gpl
       --enable-hardcoded-tables
-      --enable-jni
       --enable-ladspa
       --enable-libaom
       --enable-libass
@@ -181,7 +180,6 @@ Included options (or disbaled options due to limitations on Mac) with descriptio
   --enable-frei0r          enable frei0r video filtering [no] **
   --enable-gpl
   --enable-hardcoded-tables
-  --enable-jni             enable JNI support [no]
   --enable-ladspa          enable LADSPA audio filtering [no]
   --enable-libaom          enable AV1 video encoding/decoding via libaom [no]**
   --enable-libass          enable libass subtitles rendering, needed for subtitles and ass filter [no] **
