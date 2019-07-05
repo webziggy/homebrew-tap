@@ -62,9 +62,6 @@ class FfmpegAll < Formula
       --enable-decklink
       --enable-ffplay
       --enable-frei0r
-      --enable-gcrypt
-      --enable-gmp
-      --enable-gnutls
       --enable-gpl
       --enable-hardcoded-tables
       --enable-jni
@@ -118,7 +115,6 @@ class FfmpegAll < Formula
       --enable-libtensorflow
       --enable-libtesseract
       --enable-libtheora
-      --enable-libtls
       --enable-libtwolame
       --enable-libv4l2
       --enable-libvidstab
@@ -143,7 +139,6 @@ class FfmpegAll < Formula
       --enable-libzvbi
       --enable-lv2
       --enable-lzma
-      --enable-mbedtls
       --enable-mediacodec
       --enable-mmal
       --enable-nonfree
@@ -176,3 +171,5 @@ class FfmpegAll < Formula
     assert_predicate mp4out, :exist?
   end
 end
+
+
