@@ -77,7 +77,6 @@ class FfmpegAll < Formula
       --enable-libcdio
       --enable-libcelt
       --enable-libcodec2
-      --enable-libdav1d
       --enable-libdavs2
       --enable-libdc1394
       --enable-libdrm
