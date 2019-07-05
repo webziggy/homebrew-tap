@@ -57,6 +57,7 @@ class Ffmpeg < Formula
       --enable-ffplay
       --enable-gnutls
       --enable-gpl
+      --enable-nonfree
       --enable-libaom
       --enable-libbluray
       --enable-libmp3lame
