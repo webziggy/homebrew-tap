@@ -133,7 +133,6 @@ class FfmpegAll < Formula
       --enable-libzimg
       --enable-libzmq
       --enable-libzvbi
-      --enable-lv2
       --enable-lzma
       --enable-mediacodec
       --enable-mmal
@@ -251,7 +250,6 @@ Included options (or disbaled options due to limitations on Mac) with descriptio
   --enable-libzimg         enable z.lib, needed for zscale filter [no]
   --enable-libzmq          enable message passing via libzmq [no]
   --enable-libzvbi         enable teletext support via libzvbi [no]
-  --enable-lv2             enable LV2 audio filtering [no]
   --enable-lzma
   --enable-mediacodec      enable Android MediaCodec support [no]
   --enable-mmal            enable Broadcom Multi-Media Abstraction Layer (Raspberry Pi) via MMAL [no]
