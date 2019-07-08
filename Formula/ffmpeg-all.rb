@@ -80,7 +80,6 @@ class FfmpegAll < Formula
       --enable-libfribidi
       --enable-libgme
       --enable-libgsm
-      --enable-libiec61883
       --enable-libilbc
       --enable-libklvanc
       --enable-libkvazaar
@@ -196,7 +195,6 @@ Included options (or disbaled options due to limitations on Mac) with descriptio
   --enable-libfribidi      enable libfribidi, improves drawtext filter [no]
   --enable-libgme          enable Game Music Emu via libgme [no]
   --enable-libgsm          enable GSM de/encoding via libgsm [no]
-  --enable-libiec61883     enable iec61883 via libiec61883 [no]
   --enable-libilbc         enable iLBC de/encoding via libilbc [no]
   --enable-libjack         enable JACK audio sound server [no]
   --enable-libklvanc       enable Kernel Labs VANC processing [no]
